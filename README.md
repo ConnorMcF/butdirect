@@ -1,6 +1,7 @@
 # butdirect
 
 Guide files for https://but.direct/, the website is automatically generated on push.
+
 Test your code before committing at https://internal.but.direct/.
 
 ```html
