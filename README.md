@@ -21,7 +21,7 @@ Guide files for https://but.direct/, the website is automatically generated on p
     
 	<p>This is some text.</p>
     
-    <h2 id="step2">The first step</h2>
+    <h2 id="step2">The second step</h2>
     
 	<code>
 		<ln>let test = "hello"</ln>
